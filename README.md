@@ -18,7 +18,7 @@ This repository serves as a **public hub** for:
 
 ---
 
-## Key Features
+## Current Features
 
 ### For Clients (Mobile App)
 - **Therapy Worksheets**: Diary, Goals, Panic Diary, Worry Diary, Behavioral Experiments, and Activity Diary.

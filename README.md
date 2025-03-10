@@ -35,7 +35,7 @@ This repository serves as a **public hub** for:
 ## Getting Started
 
 ### Mobile App (Client & Therapist)
-📲 **Download the Therasize iOS App**: [App Store Link](#) _(Replace with actual link)_
+📲 **Download the Therasize iOS App**: [App Store Link](https://apps.apple.com/gb/app/therasize-therapy-companion/id1539327142)
 
 ### Web App (Therapists)
 🌐 **Login to the Web App**: [Therasize Web](https://web.therasize.com) _(Replace with actual link)_
@@ -167,7 +167,7 @@ Although this repository does not host actual source code, **we welcome contribu
 ## Community & Support
 
 💬 **Join the Discussion**
-- Blog & Updates: [Therasize Blog](https://www.therasize.com/blog) _(Replace with actual link)_
+- Blog & Updates: [Therasize Blog](https://www.therasize.com/blog)
 
 🛠 **Need Help?**  
 - Email Support: [support@therasize.com](mailto:contact@therasize.com)

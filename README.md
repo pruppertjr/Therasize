@@ -1,5 +1,7 @@
 # Therasize – Enhancing Therapy Collaboration & Progress Tracking
 
+![Therasize Logo](https://github.com/pruppertjr/Therasize/blob/main/Images/TherasizeTextLogoSoloColour.png)
+
 ## Overview
 
 Therasize is a digital mental health platform designed to **streamline therapy collaboration and improve patient progress tracking**. It provides tools for **therapists** to manage their clients efficiently and offers **clients** a structured way to engage with therapy materials, track progress, and complete worksheets.

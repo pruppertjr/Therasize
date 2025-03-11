@@ -40,7 +40,7 @@ This repository serves as a **public hub** for:
 📲 **Download the Therasize iOS App**: [App Store Link](https://apps.apple.com/gb/app/therasize-therapy-companion/id1539327142)
 
 ### Web App (Therapists)
-🌐 **Login to the Web App**: [Therasize Web](https://web.therasize.com) _(Replace with actual link)_
+🌐 **Login to the Web App**: [Therasize Web](https://app.therasize.com)
 
 💡 **Clinicians must create an account via the iOS app before logging into the web app.**
 
@@ -186,7 +186,7 @@ All rights reserved © 2024 [Therasize Limited](https://www.therasize.com).
 ## Acknowledgements
 
 Therasize was co-founded by:
-- **Peter Ruppert Junior** – CEO, Growth & Marketing Strategist  
+- **Peter Ruppert Junior** – CEO
 - **Fiorinta Lekkai** – Clinical Director, CBT Psychotherapist  
 
 📢 **We appreciate all feedback and contributions to make Therasize the best therapy collaboration platform available!** 🎉
